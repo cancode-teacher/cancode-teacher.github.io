@@ -4,14 +4,16 @@ body{
 .home-page{
     background-color:rgb(196, 239, 240);
 }
-.navbar-div{
+.navbar{
     background-color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 2%;
+    text-align: center; 
 }
-.navbar-div a{
+.navbar a{
     font-size: large;
+    flex: 1;
 }
 .content-div{
     background-color:rgb(196, 239, 240);
