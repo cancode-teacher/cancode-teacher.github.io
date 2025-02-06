@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Light';
+}
+.home-page{
+    background-color:rgb(196, 239, 240);
+}
+.navbar-div{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+.navbar-div a{
+    font-size: large;
+}
+.content-div{
+    background-color:rgb(196, 239, 240);
+    text-align: center; 
+}
+.content-div p{
+    font-size: small;
+}
+.footer{
+    background-color:rgb(196, 239, 240);
+    font-size: x-small;
+}
