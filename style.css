@@ -1,3 +1,8 @@
 .home-page{
     background-color: rgb(218, 238, 245);
 }
+
+.home-content-div{
+    text-align: center;
+    font-family: 'Franklin Gothic Light';
+}
