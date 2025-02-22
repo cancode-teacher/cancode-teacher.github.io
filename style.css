@@ -6,7 +6,21 @@ body{
     background-color: rgb(218, 238, 245);
 }
 
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.navbar a{
+    font-size: large;
+    text-decoration: none;
+}
+
 .home-content-div{
     text-align: center;
-    font-family: 'Franklin Gothic Light';
+}
+.home-content-div p{
+    font-size: small;
 }
