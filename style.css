@@ -5,7 +5,9 @@ body{
 .home-page{
     background-color: rgb(218, 238, 245);
 }
-
+.facts-page{
+    background-color:rgb(224, 198, 249);
+}
 .navbar{
     background-color: white;
     display: flex;
@@ -23,4 +25,12 @@ body{
 }
 .home-content-div p{
     font-size: small;
+}
+
+.facts-content-div{
+    margin-left: 10%;
+}
+
+.facts-content-div li{
+    font-size:large;
 }
