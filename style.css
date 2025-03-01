@@ -43,3 +43,15 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.gallery-content button {
+    border-radius: 30%;
+    padding: 1%;
+    margin: 1%;
+    background-color: rgb(170, 168, 168);
+    border-color: rgb(154, 152, 152);
+    border: none;
+    font-weight: bold;
+    font-size: x-large;
+    height: 1%;
+}
