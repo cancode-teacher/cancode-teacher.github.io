@@ -28,7 +28,7 @@ Currently you should have the following completed for our next workshop:
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/facts.html).
 - [ ] You should have a finished `gallery.html` file.
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/gallery.html).
-- [ ] You should have created a `gallery_script.js` file with an array of photos for yoru gallery page.
+- [ ] You should have created a `gallery_script.js` file with an array of photos for your gallery page.
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/gallery_script.js).
 - [ ] All your latest copies of all your files should be pushed to your GitHub repo.
     - Slides explaining how to push your local changes to GitHub can be found [here](https://docs.google.com/presentation/d/1U6H50SpssIJvuaItJ_Xgni3MShopDrw0rqbeLyGKt88/edit?usp=sharing).
