@@ -16,11 +16,21 @@ function updateImage() {
 
 nextButton.addEventListener("click", function(){
     currentImgIndex = (currentImgIndex + 1) % imageGallery.length
+    imageElement.classList.remove("animation1");
+  
+    void imageElement.offsetWidth;
+    
+    imageElement.classList.add("animation1");
     updateImage()
 });
 
 prevButton.addEventListener("click", function(){
     currentImgIndex = (currentImgIndex - 1 + imageGallery.length) % imageGallery.length
+    imageElement.classList.remove("animation1");
+  
+    void imageElement.offsetWidth;
+    
+    imageElement.classList.add("animation1");
     updateImage()
 });
 

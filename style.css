@@ -55,3 +55,15 @@ body{
     font-size: x-large;
     height: 1%;
 }
+
+#gallery-image{
+    opacity: 0;   
+}
+.animation1{
+    animation: fadeInBackground 1s ease-in forwards;
+}
+@keyframes fadeInBackground {
+    to {
+        opacity: 1;
+    }
+}
