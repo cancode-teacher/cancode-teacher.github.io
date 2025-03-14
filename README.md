@@ -28,13 +28,17 @@ Currently you should have the following completed for our next workshop:
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/facts.html).
 - [ ] You should have a finished `gallery.html` file.
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/gallery.html).
-- [ ] You should have created a `gallery_script.js` file with an array of photos for your gallery page.
+- [ ] You should have a finished `gallery_script.js` file that lets you click through all your photos.
     - You can find what content you should have on this [instructor copy](https://github.com/cancode-teacher/cancode-teacher.github.io/blob/main/gallery_script.js).
 - [ ] All your latest copies of all your files should be pushed to your GitHub repo.
     - Slides explaining how to push your local changes to GitHub can be found [here](https://docs.google.com/presentation/d/1U6H50SpssIJvuaItJ_Xgni3MShopDrw0rqbeLyGKt88/edit?usp=sharing).
     - If your changes have successfully been pushed you should be able to see your website in the browser using the link `https://<your_github_username>.github.io` (with your GitHub username in the placeholder).
         - For example, the instructor's website can be found at https://cancode-teacher.github.io/.
         - If this link does not work but you have pushed your changes on GitHub this means your repo was named incorrectly. As a reminder your repo should be named `<your-username>.github.io`.
+- [ ] You should be ready to show off your finished website to the class and answer the following questions:
+    - What was something you learned during this program?
+    - What is something you would still like to learn?
+    - What is your favourite thing about HTML, CSS or JavaScript?
 
 
 If you are having any issues, please email us at cancode_prog@sfu.ca!
