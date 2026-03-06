@@ -20,3 +20,8 @@ nextButton.addEventListener('click', function() {
     currentImageIndex = (currentImageIndex + 1) % imageGallery.length;
     updateImage();
 });
+
+prevButton.addEventListener('click', function() {
+    currentImageIndex = (currentImageIndex - 1 +imageGallery.length) % imageGallery.length;
+    updateImage();
+});
