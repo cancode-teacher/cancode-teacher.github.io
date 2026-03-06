@@ -27,6 +27,10 @@ body{
     font-size: large;
 }
 
+.navbar a:hover{
+    color: rgb(239, 84, 193);
+}
+
 .facts-page{
     background-color: #e4baf7;
 }
